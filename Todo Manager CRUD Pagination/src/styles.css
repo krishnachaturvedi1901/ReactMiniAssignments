@@ -1,0 +1,93 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 40px;
+}
+.todoParentDiv {
+  width: 350px;
+  margin: auto;
+  border: 1px solid #cecece;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 20px;
+  position: relative;
+  box-shadow: 9px 10px 5px -7px rgb(124, 124, 124);
+}
+.todoParentDiv > h2 {
+  width: auto;
+  border: 1px solid #cecece;
+  margin: -12px auto 10px;
+  padding: 7px;
+  border-radius: 5px;
+  box-shadow: 0px 9px 4px -7px rgb(124, 124, 124);
+}
+.allTodoDiv {
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.todoItemDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 7px 4px -7px rgb(207, 207, 207);
+}
+.todoItemDiv > h4 {
+  padding: 6px;
+  background-color: white;
+  min-width: 170px;
+  border: 1px solid #cecece;
+  border-radius: 5px;
+  margin: 10px 10px;
+}
+#statusBtn {
+  margin-right: 5px;
+}
+.inputDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border: 1px solid red; */
+}
+.inputDiv > input {
+  width: 60%;
+  padding: 8px;
+  font-size: 14px;
+  margin: 15px 10px;
+}
+.TodoPagesDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.TodoPagesDiv>button{
+padding:7px;
+margin-right: 4px;
+color:red;
+font-weight: bold;
+cursor:pointer;
+border-radius: 6px;
+border:1px solid red;
+box-shadow: 3px 3px 6px -0px rgb(124, 124, 124);
+
+}
+.TodoPagesDiv>button:hover,.TodoPageEnds>button:hover{
+  box-shadow: 1px 1px 1px pink;
+  background-color: pink;
+  border:1px solid red;
+}
+.TodoPageEnds>button{
+  padding:7px;
+  margin-right: 4px;
+  color:red;
+  font-weight: bold;
+  cursor:pointer;
+  border-radius: 6px;
+  border:1px solid red;
+  box-shadow: 3px 3px 6px -0px rgb(124, 124, 124);
+  
+}
+.TodoPageEnds>button:first-child,.TodoPageEnds>button:last-child{
+  opacity:0.5;
+}
+

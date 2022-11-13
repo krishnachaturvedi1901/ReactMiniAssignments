@@ -1,0 +1,84 @@
+{
+  "todosData": [
+    {
+      "title": "code",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "eat",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "assignments",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "sleep",
+      "status": true,
+      "id": 5
+    },
+    {
+      "title": "sorry others",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "love others",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "gym",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "serve others",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "dont greed",
+      "status": false,
+      "id": 12
+    },
+    {
+      "title": "do favors but forget",
+      "status": false,
+      "id": 13
+    },
+    {
+      "title": "thanq for life",
+      "status": false,
+      "id": 14
+    },
+    {
+      "title": "live ur best life",
+      "status": false,
+      "id": 15
+    },
+    {
+      "title": "jeelo jindagi",
+      "status": false,
+      "id": 16
+    },
+    {
+      "title": "spread love ",
+      "status": false,
+      "id": 17
+    },
+    {
+      "title": "act fast and more",
+      "status": false,
+      "id": 18
+    },
+    {
+      "title": "donate",
+      "status": false,
+      "id": 19
+    }
+  ]
+}
