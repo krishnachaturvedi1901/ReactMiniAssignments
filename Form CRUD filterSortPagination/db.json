@@ -1,0 +1,92 @@
+{
+  "employee": [
+    {
+      "name": "Krishna Chaturvedi",
+      "gender": "male",
+      "department": "web developer",
+      "maritalStatus": "unmarried",
+      "age": 24,
+      "salary": 40000,
+      "address": "Jhansi UP",
+      "img": "C:\\fakepath\\20221014_235226.jpg",
+      "id": 1
+    },
+    {
+      "img": "C:\\fakepath\\20221014_235226.jpg",
+      "name": "Sonal sharma",
+      "gender": "female",
+      "department": "data analyst",
+      "maritalStatus": "unmarried",
+      "age": 24,
+      "salary": 60000,
+      "address": "Jhansi UP",
+      "id": 2
+    },
+    {
+      "img": "C:\\fakepath\\20221014_235130.jpg",
+      "name": "Khusbu Varma",
+      "gender": "female",
+      "department": "web developer",
+      "maritalStatus": "married",
+      "age": 32,
+      "salary": 100000,
+      "address": "Mumbai",
+      "id": 4
+    },
+    {
+      "img": "C:\\fakepath\\20221014_235130.jpg",
+      "name": "Ravi kumar ",
+      "gender": "male",
+      "department": "app developer",
+      "maritalStatus": "married",
+      "age": 55,
+      "salary": 120000,
+      "address": "Banglore",
+      "id": 5
+    },
+    {
+      "name": "Hardeep singh",
+      "gender": "male",
+      "department": "web developer",
+      "maritalStatus": "married",
+      "age": 44,
+      "salary": 25000,
+      "address": "Chandhigarh",
+      "img": "C:\\fakepath\\20221014_235216.jpg",
+      "id": 6
+    },
+    {
+      "name": "Shakuntala",
+      "gender": "female",
+      "department": "data analyst",
+      "maritalStatus": "unmarried",
+      "age": 35,
+      "salary": 75000,
+      "address": "Pune",
+      "img": "C:\\fakepath\\20221014_235250.jpg",
+      "id": 7
+    },
+    {
+      "name": "Rahul sharma",
+      "gender": "male",
+      "department": "app developer",
+      "maritalStatus": "unmarried",
+      "age": 22,
+      "salary": 7000,
+      "address": "Bhopal",
+      "img": "C:\\fakepath\\20221014_233818.jpg",
+      "id": 9
+    },
+    {
+      "img": "C:\\fakepath\\20221014_235226.jpg",
+      "name": "Lala Ram",
+      "gender": "male",
+      "maritalStatus": "married",
+      "age": 44,
+      "salary": 44000,
+      "address": "gwalior",
+      "department": "data analyst",
+      "id": 10
+    }
+  ]
+}

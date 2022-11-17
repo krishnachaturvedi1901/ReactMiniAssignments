@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.mainFormDiv{
+  display: flex;
+}
+#formElement {
+  display:block;
+  width: max-content;
+  padding: 20px;
+  border: 2px solid #002d62;
+  background-color: #e0ffff;
+  border-radius: 6px;
+  text-align: left;
+  margin:10px,20px,20px,10px;
+}
+.inputClass {
+  margin: 10px;
+  padding: 10px;
+  color: #002d62;
+  font-size: 16px;
+  text-align: left;
+  border-radius: 6px;
+  background-color: #f0f8ff;
+}
+.inputClass:focus {
+  outline: none !important;
+  border: 2px solid #00bfff;
+  background-color: #7fffd4;
+  box-shadow: 1px 1px 1px crimson;
+}
+.formDiv{
+  display:flex;
+  padding:20px;
+}
+.displayFormDiv{
+  /* display: flex; */
+  /* flex-direction: row;
+  justify-content: center; */
+}
