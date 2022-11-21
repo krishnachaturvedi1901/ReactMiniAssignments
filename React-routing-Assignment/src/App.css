@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: #cecece;
+}
+
+.navbarDiv{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  cursor: pointer;
+  border:1px solid black;
+  background-color: #36454F;
+  color: white;
+  padding: 10px;
+}
+#searchDiv{
+  overflow-y: scroll;
+  width: 400px;
+  margin: auto;
+  border:1px solid black;
+  background-color: #cecece;
+}

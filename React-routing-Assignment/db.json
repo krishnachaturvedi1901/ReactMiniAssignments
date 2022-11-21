@@ -1,0 +1,74 @@
+{
+    "products":[
+    {
+        "name" : "SmartPhone",
+        "price": 30,
+        "id": 0,
+        "description":"Screentouch 5000Mah battery 5G"
+    },
+    {
+        "name" : "Watch",
+        "price" : 20,
+        "id" : 1,
+        "description":"Screentouch 7000Mah battery calling"
+
+    },
+    {
+        "name" : "Shirt",
+        "price" : 50,
+        "id" : 2,
+        "description":"Smooth fabric cotton 100%"
+
+    },
+    {
+        "name" : "Pants",
+        "price" : 100,
+        "id" : 3,
+        "description":"Formal pants with Smooth fabric cotton 100%"
+
+    },
+    {
+        "name" : "Laptop",
+        "price": 30,
+        "id": 4,
+        "description":"Screentouch 5000Mah battery 5G"
+    },
+    {
+        "name" : "Earphones",
+        "price" : 20,
+        "id" : 5,
+        "description":"Screentouch 7000Mah battery calling"
+
+    },
+    {
+        "name" : "Shoes",
+        "price" : 50,
+        "id" : 6,
+        "description":"Smooth fabric cotton 100%"
+
+    },
+    {
+        "name" : "Belt",
+        "price" : 100,
+        "id" : 7,
+        "description":"Formal pants with Smooth fabric cotton 100%"
+
+    },
+    {
+        "name" : "Bag",
+        "price" : 20,
+        "id" : 8,
+        "description":"Screentouch 7000Mah battery calling"
+
+    },
+    {
+        "name" : "Hard Drive",
+        "price" : 50,
+        "id" : 9,
+        "description":"Smooth fabric cotton 100%"
+
+    }
+
+
+ ]
+}
